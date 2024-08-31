@@ -1,4 +1,5 @@
 import HTPILib.Chap3
+import Paperproof
 namespace HTPI.Exercises
 
 /- Sections 3.1 and 3.2 -/
